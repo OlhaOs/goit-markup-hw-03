@@ -84,6 +84,7 @@ nav {
 }
 .contact-link {
   margin-left: auto;
+  display: flex;
 }
 .contact-link a + a {
   margin-left: 40px;
@@ -124,6 +125,14 @@ nav {
   letter-spacing: 0.02em;
   color: #757575;
   text-decoration: none;
+}
+.icon-envelope {
+  width: 16px;
+  height: 10px;
+}
+.icon-phone {
+  width: 10px;
+  height: 17px;
 }
 /*section Hero*/
 

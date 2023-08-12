@@ -1,1 +1,2 @@
-HW-1 markup WebStudio (1 page)
+HW-2 markup WebStudio (1 page) 
+add CSS

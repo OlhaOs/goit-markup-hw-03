@@ -1,2 +1,3 @@
-HW-2 markup WebStudio (1 page) 
+HW-2 markup WebStudio 
+add portfolio page
 add CSS

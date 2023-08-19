@@ -68,19 +68,13 @@ body {
 
 .header-nav-link {
   font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
 .header-contact-list {
 }
 .header-contact-link {
   color: var(--secondary-text-color);
-
   font-style: normal;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
-
 .header-contact-link:hover,
 .header-contact-link:focus {
   color: var(--pressed-state-color);
@@ -92,7 +86,6 @@ body {
 .hero-title {
   color: var(--white-text-bg-color);
   text-align: center;
-
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;

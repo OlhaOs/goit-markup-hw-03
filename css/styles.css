@@ -294,7 +294,7 @@ img {
 }
 
 .portfolio-list-item {
-  width: calc((100% = (var(--indent-col)) * 2) / 3);
+  width: calc((100% - (var(--indent-col)) * 2) / 3);
 
   background-color: var(--white-text-bg-color);
 }

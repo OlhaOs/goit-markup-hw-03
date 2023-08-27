@@ -280,6 +280,7 @@ img {
 .filter-btn:focus {
   background-color: var(--pressed-state-color);
   color: var(--white-text-bg-color);
+  border-color: transparent;
 }
 .portfolio-list {
   display: flex;
